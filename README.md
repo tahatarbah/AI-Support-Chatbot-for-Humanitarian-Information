@@ -8,7 +8,6 @@ Tools Used:
   1. LangChain framework: for user query synthesis and reply generation
   2. Flask: for web gui
   3. GPT-3.5: for language understanding
-  4. Linkedin blogpost: for current information retrieval; [Link](https://www.linkedin.com/pulse/insights-post-pandemic-economy-our-2024-global-market-rob-sharps-jcnmc)
 
 <br>
 
